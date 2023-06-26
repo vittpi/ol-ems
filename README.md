@@ -77,6 +77,7 @@ If you use this code, please cite the following paper:
 ```
 
 ## Authors
+Vittorio Casagrande (vittorio.casagrande.19@ucl.ac.uk), Martin Ferianc (martin.ferianc.19@ucl.ac.uk)
 
 ## Contributing
 In case you find any bugs or have any suggestions, please open an issue or a pull request.
