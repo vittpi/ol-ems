@@ -69,8 +69,8 @@ If you use this code, please cite the following paper:
 @inproceedings{casagrande2023online,
   title={An Online Learning Method for Microgrid Energy Management Control},
   author={Casagrande, Vittorio and Ferianc, Martin and Rodrigues, Miguel and Boem, Francesca},
-  booktitle={2023 Mediterranean Conference on Control and Automation (MED)},
-  pages={***--***},
+  booktitle={2023 31st Mediterranean Conference on Control and Automation (MED)},
+  pages={263--268},
   year={2023},
   organization={IEEE}
 }
