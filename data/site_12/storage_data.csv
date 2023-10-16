@@ -1,0 +1,2 @@
+capacity_max_kWh,capacity_min_kWh,power_max_kW,power_min_kW,charge_discharge_efficiency
+800.00,80.00,200.00,-200.00,0.95
