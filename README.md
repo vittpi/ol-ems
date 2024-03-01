@@ -84,3 +84,6 @@ In case you find any bugs or have any suggestions, please open an issue or a pul
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+This work was supported by the UK Engineering and Physical Sciences Research Council (EPSRC) under grant EP/W024411/1 and EP/R513143/1.
